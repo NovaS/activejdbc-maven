@@ -1,0 +1,9 @@
+# Eclipse project files
+.classpath
+.project
+.settings
+
+# Maven output
+target
+*.releaseBackup
+release.properties

@@ -1,4 +1,4 @@
 activejdbc-maven
 ================
 
-sample project for activejdbc
+sample project for activejdbc with maven
